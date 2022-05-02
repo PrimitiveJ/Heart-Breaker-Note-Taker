@@ -12,9 +12,9 @@
   - [Testing](#Testing)
   - [Repository Link](#Repository)
   - [GitHub Info](#GitHub) 
-  - [Heroku Deployment](#Heroku Deployment) 
+  - [Heroku Deployment](#Heroku) 
   - [Contact](#Contact)
-  - [Video Demonstration](#Video Demonstration Link)
+  - [Video Demonstration](#Video)
   ## Installation
   Dependencies: Express.js, FS, Path, UUID helper for id generation. Use by deploying locally or on Heroku at https://note-taker-heart-breaker1.herokuapp.com/ 
   ## Usage
